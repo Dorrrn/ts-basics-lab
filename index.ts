@@ -8,8 +8,8 @@
 // Now, ready to do some TypeScript?!
 
 // ======== Exercise 1: Basic types ========
-import exercise0 from './src/Exercise_0_Test/exercise0';
-exercise0();
+// import exercise0 from './src/Exercise_0_Test/exercise0';
+// exercise0();
 
 // ======== Exercise 1: Basic types ========
 // import exercise1 from './src/Exercise_1_Basic_Types/exercise1';
@@ -31,7 +31,6 @@ exercise0();
 // import exercise5 from './src/Exercise_5_Code_Flow/exercise5';
 // exercise5();
 
-
 // ⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇
 //   Solutions
 // ⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈
@@ -41,8 +40,8 @@ exercise0();
 // solution0();
 
 // ======== Solution 1: Basic types ========
-// import solution1 from './src/Exercise_1_Basic_Types/solution1';
-// solution1();
+import solution1 from './src/Exercise_1_Basic_Types/solution1';
+solution1();
 
 // ======== Solution 2: Functions ==========
 // import solution2 from './src/Exercise_2_Functions/solution2';
