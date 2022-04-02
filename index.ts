@@ -40,12 +40,12 @@
 // solution0();
 
 // ======== Solution 1: Basic types ========
-import solution1 from './src/Exercise_1_Basic_Types/solution1';
-solution1();
+// import solution1 from './src/Exercise_1_Basic_Types/solution1';
+// solution1();
 
 // ======== Solution 2: Functions ==========
-// import solution2 from './src/Exercise_2_Functions/solution2';
-// solution2();
+import solution2 from './src/Exercise_2_Functions/solution2';
+solution2();
 
 // ======== Solution 3: Classes ============
 // import solution3 from './src/Exercise_3_Classes/solution3';
